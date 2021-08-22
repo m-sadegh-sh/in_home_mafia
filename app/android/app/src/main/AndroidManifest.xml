@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.inhouse_mafia">
+    package="com.example.in_home_mafia">
    <application
-        android:label="inhouse_mafia"
+        android:label="in_home_mafia"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

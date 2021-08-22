@@ -1,4 +1,4 @@
-package com.example.inhouse_mafia
+package com.example.in_home_mafia
 
 import io.flutter.embedding.android.FlutterActivity
 
